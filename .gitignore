@@ -5,6 +5,8 @@
 # Archivos de compilación de Python
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 
 # Archivos de configuración de entornos
 .env
